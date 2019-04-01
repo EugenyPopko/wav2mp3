@@ -1,7 +1,7 @@
 # wav2mp3
 WAV to MP3 converter. Program implemented by using LAME library, queue and pthreads.
 
-Windows realization
+Windows implementation
  - Tested on Visual Studio 2017
  - Uses lame-3.100. 
  - Uses implementation of pthread (ftp://sourceware.org/pub/pthreads-win32/dll-latest)
