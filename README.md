@@ -12,3 +12,6 @@ Linux implementation
  - Uses lame-3.100.
  Compile program: g++ -o wav2mp3 wav2mp3.cpp -linclude/lame -static libmp3lame.a -lpthread -lm
  
+ Example of use:
+ ./wav2mp3.exe c:\dir_with_wav_files
+ 
